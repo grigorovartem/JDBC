@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+OrdersDB.iml
+Would skip repository OrdersDB/
+src/main/resources/
+src/test/
+target/
+
